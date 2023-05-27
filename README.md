@@ -1,2 +1,7 @@
-# The-Snake-Game
-The player controls a long, thin creature, resembling a snake, which roams around on a bordered plane, picking up food (or some other item), trying to avoid hitting its own tail or the edges of the playing area. Each time the snake eats a piece of food, its tail grows longer, making the game increasingly difficult.
+# Task Manager console based application
+This application is like a todo which stores data in the form of text list we can Create Category, Load Category, Search, List ,Exit in the main menu further we can 1.Add a Task
+2.Edit a Task
+3.Remove a Task
+4.List the Tasks
+5.Search
+6.Go back to main menu.
